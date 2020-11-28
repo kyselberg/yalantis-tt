@@ -1,0 +1,12 @@
+.EmployeesItem_ListItem{
+  display: flex;
+  justify-content: space-between;
+}
+
+.EmployeesItem_ListItem_Label {
+  margin-right: 10px;
+}
+
+.EmployeesItem_Letter {
+  text-shadow: 2px 2px 2px coral;
+}

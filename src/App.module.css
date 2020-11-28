@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Employees, .Birthdays {
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.Employees {
+  width: 65%;
+}
+
+.Birthdays {
+  width: 35%;
+}
